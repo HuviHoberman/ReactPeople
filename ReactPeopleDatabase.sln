@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactPeopleDatabase", "ReactPeopleDatabase\ReactPeopleDatabase.csproj", "{C14D9AD5-BBB1-49C1-80BC-5DBB252F5C46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactPeopleDatabase.Data", "ReactPeopleDatabase.Data\ReactPeopleDatabase.Data.csproj", "{C0901B9B-41EB-4F13-B600-D79F014FCA7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C14D9AD5-BBB1-49C1-80BC-5DBB252F5C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C14D9AD5-BBB1-49C1-80BC-5DBB252F5C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C14D9AD5-BBB1-49C1-80BC-5DBB252F5C46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0901B9B-41EB-4F13-B600-D79F014FCA7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0901B9B-41EB-4F13-B600-D79F014FCA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0901B9B-41EB-4F13-B600-D79F014FCA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0901B9B-41EB-4F13-B600-D79F014FCA7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
